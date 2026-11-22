@@ -1,3 +1,22 @@
+# Kristof Moons Portfolio
+
+Portfolio website built with Vue 3 and Vite. The original portfolio content and images are kept in `public/images`.
+
+## Development
+
+```sh
+npm install
+npm run dev
+```
+
+## Production
+
+```sh
+npm run build
+npm run preview
+```
+
+The production build is generated in `dist/`.
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
